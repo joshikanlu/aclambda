@@ -1,0 +1,14 @@
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/AspNetCoreWebAPI
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/appsettings.json
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/aws-lambda-tools-defaults.json
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/AspNetCoreWebAPI.deps.json
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/AspNetCoreWebAPI.runtimeconfig.json
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/AspNetCoreWebAPI.pdb
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/Amazon.Lambda.APIGatewayEvents.dll
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/Amazon.Lambda.AspNetCoreServer.dll
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/Amazon.Lambda.Logging.AspNetCore.dll
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/jide.oshikanlu/root_dev/aclambda/AspNetCoreWebAPI/src/AspNetCoreWebAPI/bin/Release/net8.0/publish/AspNetCoreWebAPI.dll
